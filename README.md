@@ -1,2 +1,2 @@
 # CeceCoded.github.io
-repo for ESIIL webpage
+repo for ESIIL Stars 2026
